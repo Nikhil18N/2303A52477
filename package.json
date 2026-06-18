@@ -1,0 +1,24 @@
+{
+  "name": "2303a52477",
+  "version": "1.0.0",
+  "description": "This repository contains the Campus Evaluation backend-related projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhil18N/2303A52477.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhil18N/2303A52477/issues"
+  },
+  "homepage": "https://github.com/Nikhil18N/2303A52477#readme",
+  "dependencies": {
+    "axios": "^1.18.0",
+    "dotenv": "^17.4.2"
+  }
+}
